@@ -1,4 +1,4 @@
-### Mobile Ads Purchase Prediction
+# Mobile Ads Purchase Prediction
 This project focuses on predicting whether a user will purchase a mobile ad based on certain features. It uses machine learning models, including a neural network, a random forest classifier, and an XGBoost classifier for prediction.
 
 ## Prerequisites
@@ -13,15 +13,15 @@ scikit-learn
 tensorflow
 xgboost
 
-# You can install the required packages using the following command:
+## You can install the required packages using the following command:
 
 pip install pandas numpy seaborn matplotlib scikit-learn tensorflow xgboost
 
-# Getting Started
+## Getting Started
 Datasets
 The project uses the "mobile_ads.csv" dataset. The dataset includes information about users and their interactions with mobile ads.
 
-# Models
+## Models
 Neural Network
 Random Forest Classifier
 XGBoost Classifier
